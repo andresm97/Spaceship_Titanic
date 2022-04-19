@@ -50,7 +50,7 @@ PassengerId - A unique Id for each passenger. Each Id takes the form gggg_pp whe
 
 **Image 1**: Age Group Distribution 
 
-![](img/age_group_distribution.png)
+![](img/age_distribution.png)
 
 **Image 2**: Cryo Sleep Distribution 
 
